@@ -1,0 +1,18 @@
+.header {
+  background-color: #0252c8;
+  padding: 20px;
+}
+
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 36px;
+  color: white;
+  text-align: center;
+}
+
+.instruction {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  color: white;
+  text-align: center;
+}

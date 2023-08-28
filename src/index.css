@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background-color: #2769d6;
+}
+
+.logo {
+  width: 50px;
+}
+
+.input{
+  align-items: center;
+  display: block;
+  margin: 1% 40%  auto  40%;
+  font-size: 25px;
+  color: white;
+}
+
+.resultados{
+  margin-top: 10px;
+  text-align: center;
+}
